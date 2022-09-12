@@ -10,8 +10,8 @@ public class FileConstant {
     public static final String DOT = ".";
     public static final String FORWARD_SLASH = "/";
     public static final String NOT_AN_IMAGE_FILE = " is not an image file. Please upload an image file";
-    //public static final String TEMP_PROFILE_IMAGE_BASE_URL = "https://robohash.org/";
-    public static final String TEMP_PROFILE_IMAGE_BASE_URL = "https://petapixel.com/assets/uploads/2022/05/the-toronto-skyline-with-google-brain-logo-800x800.jpeg";
+    public static final String TEMP_PROFILE_IMAGE_BASE_URL = "https://robohash.org/";
+    //public static final String TEMP_PROFILE_IMAGE_BASE_URL = "https://petapixel.com/assets/uploads/2022/05/the-toronto-skyline-with-google-brain-logo-800x800.jpeg";
 
 
 }
